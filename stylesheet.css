@@ -1,0 +1,274 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	text-align: center;
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	border: 3px solid black;
+}
+
+h2{
+	text-align: center;
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	transform: translate(-40%, 0%);
+	position: relative;
+}
+h3{
+	text-align: center;
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	top:-40px;
+	position: relative;
+}
+h4{
+	text-align: center;
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 16px;
+	left: 35%;
+	top:-80px;
+	position: relative;
+}
+#picture {
+	background-image: url("twinnie.jpg");
+	width: 300px;
+    height: 300px;
+	border: 5px solid white;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	border-radius: 150px;	
+    position: relative;
+	margin: auto;
+
+
+	background-size: contain;
+	/*z-index: 1;*/
+}
+.contact{
+	width: 100%;
+	height: 100px;
+	position: relative;
+	margin: auto;
+	
+}
+img {
+	position: relative;
+	margin: auto;
+}
+
+#img1 {
+	transform: rotate(340deg);
+	top: 55%;
+    left: 0%;
+}
+
+#img2 {
+	top: 58%;
+	left:15%;
+	transform: rotate(20deg);
+}
+
+#img3 {
+	top: 70%;
+	left: 30%;
+	transform: rotate(270deg);
+}
+
+.center {
+	width: 600px;
+	height: 600px;
+	padding-bottom: 10%;
+	position: relative;
+	margin: auto;
+}
+
+h5 {
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	transform: rotate(70deg);
+	top: 520px;
+	left: -38%;
+	position: relative;
+}
+h6{
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	top: 450px;
+	left: 200px;
+	margin: auto;
+	position: relative;
+}
+h7, #activites{
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(-70deg);
+	top: 220px;
+	left: 335px;
+	position: relative;
+}
+h8, #robotics{
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(250deg);
+	top: 149px;
+	left: 470px;
+	position: relative;
+}
+
+#img4{
+	transform: rotate(-20deg);
+	top: 180px;
+	left: 500px;
+	position: relative;
+}
+#img5{
+	transform: rotate(20deg);
+	position: relative;
+	top: 260px;
+	left: 285px;
+}
+h9, #science_olympiad{
+	position: relative;
+	top: 285px;
+	left: 190px;
+	letter-spacing: 3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(-70deg);
+}
+#img6{
+	transform: rotate(70deg);
+	top:340px;
+	left:130px;
+	position: relative;
+}
+
+h10, #girl_scouts{
+	position: relative;
+	top:64%;
+	left: 100%;
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(-20deg);
+}
+
+h11 {
+	position: relative;
+	top: 180px;
+	left: -510px;
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(110deg);
+}
+
+h12 {
+	position: relative;
+	top: 330px;
+	left: -580px;
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 18px;
+	font: bold;
+	transform: rotate(70deg);
+}
+h13 {
+	position: relative;
+	top: 435px;
+	left: -580px;
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 16px;
+	font: bold;
+	transform: rotate(20deg);
+}
+h14 {
+	position: relative;
+	top: 530px;
+	left: -255px;
+	letter-spacing:1.5px;
+	font-family: Helvetica;
+	font-size: 16px;
+	font: bold;
+	transform: rotate(50deg);
+}
+h15{
+	position: relative;
+	top: 560px;
+	left: -190px;
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 16px;
+	font: bold;
+}
+p{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:20px;
+	border:3px solid black;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 500px;
+	height: 200px;
+	left: 15%;
+	
+}
+#extra{
+	top:0%;
+	position: relative;
+	display: none;
+}
+
+#img7{
+	transform: rotate(20deg);
+	position: relative;
+	top: 190px;
+	left: -140px;
+}
+#img8{
+	transform: rotate(340deg);
+	positon: relative;
+	top: 290px;
+	left: -240px;
+}
+#img9{
+	transform: rotate(-70deg);
+	top: 370px;
+	left: -270px;
+	position: relative;
+}
+
+#img10 {
+	top: 472px;
+	left: 110px;
+	margin: auto;
+	position: relative;
+	transform: rotate(-40deg);
+}
+#img11 {
+	top: 490px;
+	left: 150px;
+	margin: auto;
+	position: relative;
+	transform: rotate(90deg);
+}
+#img12 {
+	top: 475px;
+	left: 185px;
+	margin: auto;
+	position: relative;
+	transform: rotate(40deg);
+}
