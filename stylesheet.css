@@ -108,10 +108,10 @@ h7, #activites{
 	font-family: Helvetica;
 	font-size: 18px;
 	font: bold;
-	transform: rotate(-70deg);
 	top: 230px;
 	left: 400px;
 	position: relative;
+	transform: rotate(-70deg);
 }
 h8, #robotics{
 	letter-spacing: 3px;
