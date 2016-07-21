@@ -365,12 +365,12 @@ position: absolute;
 background-color: #DDDDDD;
 border: 2px solid black;
 width: 70%;
-height: 450px;
+height: 440px;
 }
 
 #interests{	
--webkit-transform: translate(50%, -160%);
-transform: translate(50%, -160%);
+-webkit-transform: translate(50%, -170%);
+transform: translate(50%, -170%);
 position: relative;
 }
 
