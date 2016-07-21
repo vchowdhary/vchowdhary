@@ -369,8 +369,8 @@ height: 440px;
 }
 
 #interests{	
--webkit-transform: translate(50%, -200%);
-transform: translate(50%, -200%);
+-webkit-transform: translate(50%, -190%);
+transform: translate(50%, -190%);
 position: relative;
 }
 
