@@ -510,3 +510,37 @@ writing{
 	position: absolute;
 	padding-bottom: 10px;
 }
+#gwcteampic{
+	border: 3px double black;
+}
+#gwclogo{
+	top:-355px;
+	left: 2%;
+	position: absolute;
+}
+#mslogo{
+	top:-360px;
+	left: 55%;
+	position: absolute;
+}
+#gwc-text1{
+	background-color: #FF4F4F;
+	border: 2px solid #FF1A1A;
+	width: 650px;
+	height: 224px;
+	top: -230px;
+	left: 2%;
+	position: absolute;
+}
+#general{
+	font: Helvetica;
+	font-size: 18px;
+	left:-15px;
+	position: absolute;
+}
+#gwc1{
+	height:600px;
+	width:600px;
+	left: 615px;
+	position: absolute;
+}
