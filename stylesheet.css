@@ -334,8 +334,8 @@ p{
 }
 
 #me{
-	top:-2px;
-	left: 102%;
+	top:120px;
+	left: 74%;
 	position: absolute;
 }
 
@@ -358,14 +358,23 @@ li{
 	position: relative;
 	left:35px;
 }
+ul2{
+	letter-spacing:0.5px;
+	font-family: Helvetica;
+	margin: auto;
+	font-size: 18px;
+	color: white;
+	font: bold;
+	position: relative;
+}
 
 #about_me2{
-left:6%;
+left:2%;
 position: absolute;
 background-color: #DDDDDD;
 border: 2px solid black;
 width: 70%;
-height: 440px;
+height: 420px;
 }
 
 #interests{	
@@ -378,9 +387,102 @@ position: relative;
 	letter-spacing: 3px;
 	font-family: Helvetica;
 	font-size: 24px;
-	position: relative;
-	top:520px;
-	left: 40%;
+	position: absolute;
+	top:560px;
+	left: 30%;
 	margin: auto;
 	
 }
+.classes{
+	position: absolute;
+	background-color: #FF4F4F;
+	border: 2px solid #FF1A1A;
+	width: 33%;
+	height: 250px;
+}
+.skills_text2{
+	letter-spacing:3px;
+	font-family: Helvetica;
+	font-size: 24px;
+	font: bold;
+	position: relative;
+	padding-top: 10px;
+	padding-left: 35px;
+	color: white;
+}
+
+#taken{
+	left: 2%;
+	top: 600px;
+}
+
+#taking{
+	left:37%;
+	top:600px;
+	
+}
+.circle{
+	width: 70px;
+	height: 70px;
+	border: 3px black dashed;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	border-radius: 35px;		
+}
+#spotlight{
+	top:440px;
+	left: 80%;
+	margin: auto;	
+}
+#essay1{
+	background-image: url("writing1.jpg");
+	background-size: contain;
+	top:600px;
+	left:72%;
+	position: absolute;
+}
+
+#essay2{
+	background-image: url("writing2.jpg");
+	background-size: contain;
+	top:685px;
+	left:72%;
+	position: absolute;
+	
+}
+
+#essay3{
+	background-image: url("writing3.jpg");
+	background-size: contain;
+	top:770px;
+	left: 72%;
+	position: absolute;
+}
+
+writing{
+	letter-spacing:1px;
+}
+
+#essay1-text{
+	top:620px;
+	left:80%;
+	font-family: Helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+#essay-text2{
+	top:705px;
+	left:80%;
+	font-family: Helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+#essay3-text{
+	top:790px;
+	left:80%;
+	font-family: Helvetica;
+	position: absolute;
+	font-size: 18px;
+
+}
+
