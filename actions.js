@@ -76,3 +76,7 @@ else
 	current_image.src="blackjck-code.png";
 }
 }
+
+function toggleProject(){
+var current_project = document.getElementById("project-title");
+}
