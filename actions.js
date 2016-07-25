@@ -78,5 +78,12 @@ else
 }
 
 function toggleProject(){
-var current_project = document.getElementById("project-title");
+var current_project = document.getElementById("projects-title");
+var current_image = document.getElementById("projects-image");
+var current_description = document.getElementById("projects-paragraph")
+if(current_project == "BLACKJACK"){ 
+	current_project.innerHTML = "HOUSES";
+	current_image.src="houses-code.png";
+	current_description.innerHTML = "blah blah blah";
+}
 }
