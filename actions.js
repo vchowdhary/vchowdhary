@@ -69,7 +69,7 @@ function toggleImage(){
 var current_image = document.getElementById("projects-image");
 if(current_image.src.match("blackjck-code.png"))
 {
-	current_image.src = "blackjack-output.png";
+	current_image.src = "blackjack-output.PNG";
 }
 else
 {
